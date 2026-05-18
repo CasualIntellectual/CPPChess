@@ -22,7 +22,9 @@ The combination of these program components exemplifies MVC architecture, with t
 
 
 This program uses PuTTy and XMing to display the board using X-Forwarding. 
+
 <img width="200" height="160" alt="images" src="https://github.com/user-attachments/assets/c509f316-d9bf-4265-97c0-278a80c8e273" />
+
 <img width="380" height="200" alt="1_f6Q7_hMy3dWOIHg1KcdRXQ" src="https://github.com/user-attachments/assets/8edcce07-7a22-4d82-9f95-a0be1a470898" />
 
 The program is designed to run on the University of Waterloo's CS student Linux servers
